@@ -1,0 +1,26 @@
+{
+  "name": "@laibanaz240/currancy_change",
+  "version": "1.0.2",
+  "description": "This is my first cli currancy changed project",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "currancy_change"
+  ],
+  "author": "Laiba Naz",
+  "license": "MIT",
+  "dependencies": {
+    "@laibanaz240/currancy_change": "^1.0.2",
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
