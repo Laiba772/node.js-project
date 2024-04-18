@@ -1,0 +1,23 @@
+{
+  "name": "@laibanaz240/gassing_game",
+  "version": "1.0.3",
+  "description": "This is my First cli based Gassing_game",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Laiba Naz",
+  "license": "MIT",
+  "dependencies": {
+    "@laibanaz240/gassing_game": "^2.1.2",
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
